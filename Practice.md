@@ -6,11 +6,10 @@
    Systems, Git](https://drive.google.com/open?id=0B85z_dQxOMgLeDlhaVRHNHoteFE)
 
 ### Files
-[Practice Files](https://drive.google.com/open?id=0B85z_dQxOMgLai1xeDh0UXhVbWs)
+[Cygwin Package](https://drive.google.com/open?id=0B85z_dQxOMgLREtaZE5vT1dQa0k)
 
 ### Videos
-[Tech Talk: Linus Torvalds on
-Git](https://drive.google.com/open?id=0B85z_dQxOMgLeDlmWWt2X1g4Ujg)
+[Tech Talk: Linus Torvalds on Git](https://drive.google.com/open?id=0B85z_dQxOMgLeDlmWWt2X1g4Ujg)
 
 ### Books
 [Pro Git, 2nd Edition by Scott Chacon and Ben Straub](https://progit.org)

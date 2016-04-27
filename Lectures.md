@@ -7,6 +7,7 @@
 5. [System Modeling](https://drive.google.com/open?id=0B85z_dQxOMgLNnpheGhONllvS0k)
 6. [Architectural Design](https://drive.google.com/open?id=0B85z_dQxOMgLVUlVWTNBTngxcVk)
 7. [Design and Implementation](https://drive.google.com/open?id=0B85z_dQxOMgLeWdLdHkyZzNrdFk)
+8. [Software Testing](https://drive.google.com/open?id=0B85z_dQxOMgLV1RDRmoyNGNlT0E)
 
 ### Videos
 

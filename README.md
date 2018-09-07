@@ -20,7 +20,7 @@ View the screen of the instructor's machine
 
 * <https://hangouts.google.com/hangouts/_/ytl/77IjUY8PX7Rl9CLGH1dRNJHPxTETNgbHRT81yST5_AI=?hl=en_US>
 
-## Recodrings
+## Recordings
 
 View previous class recordings
 

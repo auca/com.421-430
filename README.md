@@ -5,7 +5,7 @@
 General course information, time, room and lab numbers, rules, grading, and
 books
 
-* <https://github.com/auca/com.421-430/blob/master/Syllabus/COM_421-430_Fall_2018_Syllabus.pdf>
+* TBD
 
 ## Class Discussions
 

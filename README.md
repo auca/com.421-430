@@ -1,4 +1,4 @@
-# Sofware Engineering (COM-421)
+# Sofware Engineering (COM-421, COM-430)
 
 ## Syllabus
 

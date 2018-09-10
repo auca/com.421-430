@@ -12,7 +12,7 @@ books
 For announcements, student questions and student answers to get the
 participation grade
 
-* TBD
+* <https://piazza.com/auca.kg/fall2018/com421/home>
 
 ## Screencast
 

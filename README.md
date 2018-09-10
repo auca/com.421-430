@@ -18,10 +18,14 @@ participation grade
 
 View the screen of the instructor's machine
 
-* <https://hangouts.google.com/hangouts/_/ytl/77IjUY8PX7Rl9CLGH1dRNJHPxTETNgbHRT81yST5_AI=?hl=en_US>
+* <https://hangouts.google.com/hangouts/_/ytl/ThFpVgTKpzyjRQDKaANiZBRrvNVYvpNzN3MUZX7I28w=?hl=en_US>
 
 ## Recordings
 
 View previous class recordings
 
 * <https://www.youtube.com/playlist?list=PLIWindejDy9DPcCKVxki5hN_7AWtUEZ8s>
+
+## Contact Info Collection Form
+
+* <https://docs.google.com/spreadsheets/d/1TX7IRB3aEh6GzNvhaNcm2_CxMHr1XAbH4dO3dgVwJZQ/edit?usp=sharing>

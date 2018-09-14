@@ -44,7 +44,7 @@ version of your project as `v1.0`.
 
 Make sure that you commit history is in order by calling the `git log` command.
 
-1. Login into your account at `auca.xyz`.
+1. Login into your account at `auca.space`.
 
 2. Create an empty directory `task_01.git`.
 

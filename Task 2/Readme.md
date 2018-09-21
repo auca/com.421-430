@@ -25,7 +25,7 @@ Ensure that
 * it is possible to compile and run tests at every step
 * the last commit is properly tagged
 
-Use `git rebase` to fix any of those problems in your local repository.
+Use 'git [rebase](https://git-scm.com/book/en/v2/Git-Tools-Rewriting-History)' to fix any of those problems in your local repository.
 
 Additionally, Use `git rebase` to
 

@@ -66,9 +66,9 @@ central repository.
 
 #### Remotes
 
-  `origin ssh://<your login name>@auca.xyz:/~/task_03.git`
+  `origin ssh://<your login name>@auca.space:/~/task_03.git`
 
-  `<peer> ssh://<your login name>@auca.xyz:/home/<peer>/task_03.git`
+  `<peer> ssh://<your login name>@auca.space:/home/<peer>/task_03.git`
 
   Where <peer> is the login name of another student.
 

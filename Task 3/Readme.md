@@ -54,9 +54,8 @@ central repository.
 12. Copy the bare repository to the specified remote server.
 13. Set the remote in the local repository to the ssh path of the newly created
     remote repository.
-14. Login into the remote server and set the group and group read and write
-    permissions for the bare repository. All users from the group `com-421-430`
-    should be able to clone the repository.
+14. Login into the remote server and set read permissions for the `task_03.git`
+    directory for `others`.
 15. Ask another student to pull and integrate changes from the newly created
     central repository.
 16. Do the same for a similar request from another student. Pull and integrate

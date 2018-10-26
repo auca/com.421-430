@@ -1,5 +1,5 @@
 # COM 421, Software Engineering
-### Practice Task #4, Rewriting History
+### Practice Task #4, Pull Requests
 
 #### Requirements
 

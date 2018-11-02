@@ -1,0 +1,50 @@
+Text Editor
+===========
+
+User Story:
+
+As a user of the text editor, I would like
+to be able to edit text without distractions.
+I don't want to see any unnecessary UI. I
+don't want to see menus, or any buttons. I
+would like to only see the area where I
+can edit the text to focus on my work. The
+application must start in the center of the
+screen as I don't like to reposition it
+every time it starts. The application must
+be maximized on every start to cover all the
+other distractions on the OS. The application
+should be named Focus. The program should
+only be able to open and save files, but the
+program should not have any buttons or menues
+to do that.
+
+Backlog:
+
+Task #1
+Create the Project
+
+Task #2
+Create the VCS repository
+
+Task #3
+Setup the test environment
+
+Task #4
+Create a window
+ - Center the window
+ - Set the startup state to maximized
+ - Set the title to "Focus"
+
+Task #5
+Create the field to edit text
+ - Set the size to size of the window
+
+Task #6
+Allow to open files
+ - Show the OS open dialog on CTRL-O key comb.
+ - Allow to open on Drag-and-Drop ops.
+
+Task #7
+Allow to save files
+ - Show the OS save dialog on CTRL-S key comb.

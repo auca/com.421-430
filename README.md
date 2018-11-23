@@ -18,13 +18,14 @@ participation grade
 
 View the screen of the instructor's machine
 
-* <https://hangouts.google.com/hangouts/_/ytl/K-nv_0iy7svh8lv4XLhHzmgA0hzhQZdRzEgDOwoeijs=?hl=en_US>
+* <https://hangouts.google.com/hangouts/_/ytl/55r2GHhRmRQEIEkmrpt88w1DDapFhKuC2cCaYI8kqHQ=?hl=en_US>
 
 ## Recordings
 
 View previous class recordings
 
 * <https://www.youtube.com/playlist?list=PLIWindejDy9DPcCKVxki5hN_7AWtUEZ8s>
+* <https://www.youtube.com/playlist?list=PLHcEzCb_lW6dZu_UW5eW2s1PtCBGgqiWT>
 
 ## Midterm SignUp Form
 

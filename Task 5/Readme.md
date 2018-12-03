@@ -63,11 +63,15 @@ The practice task serves as a preparatory step for the course project.
 
 #### Deadlines
 
-You will have one week to finish your work.
+You will have time untill the end of the semester. In labs you have to
+work on a text editor application `Focus`. For the course project, you have to
+build an image editing application. Sample sources can be found
+[here](https://drive.google.com/file/d/1hYatyQgd6-leyOpC0xCJRDhgugJI6E9p/view?usp=sharing).
+Sample storyboards can be found [here](https://docs.google.com/presentation/d/1KObVe2k4sbw-d7WPFo3S0d0127ryF11CTV3H2mo3mUc/edit?usp=sharing).
 
 ---
 
-#### User Stories
+#### Sample User Stories
 
 ##### General Recommendations
 

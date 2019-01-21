@@ -24,5 +24,11 @@ View the screen of the instructor's machine
 
 View previous class recordings
 
+### Fall 2018
+
 * <https://www.youtube.com/playlist?list=PLIWindejDy9DPcCKVxki5hN_7AWtUEZ8s>
 * <https://www.youtube.com/playlist?list=PLHcEzCb_lW6dZu_UW5eW2s1PtCBGgqiWT>
+
+### Spring 2019
+
+* <https://www.youtube.com/playlist?list=PLHcEzCb_lW6doS9AqA1XoPNeU7WYmDGcf>

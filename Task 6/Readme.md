@@ -1,28 +1,34 @@
 # COM 421, Software Engineering
-### Practice Task #6, System Modeling
+### Practice Task #6, Requirements Engineering
 
 #### Task Requirements
 
-Build the following UML diagrams describing the system you are working on for your diploma work.
+Prepare a requirement document for your diploma work by following the IEEE
+830-1984 standard or any of its variants.
 
-* Use Case Diagram
-* Activity Diagram
-* Sequence Diagram
-* Class Diagrams
-* State Diagram
+Ensure to include the basic steps of the requirement engineering process.
 
-The goal is to outline the following key...
+* Feasibility study
+* Elicitaion and analyses
+* Specification
+* Validation
 
-* roles of your system
-* use cases for every role (actor)
-* processes, algorithms
-* structural components
-* states and change of state in response to events
+Ensure that your requirements document has
 
-#### Software
+* User requirements
+* System requirements
 
-1. You can use any office package and create the diagrams manually.
-2. You can use any generic diagramming or vector graphics applications.
-3. You can use specialized UML modelling software.
+Ensure that the system requirements are categorized acording to the taxonomy
+provided in the book.
 
-Note that we do have Microsoft Visio and Microsoft Visual Studio Enterprise installed in our labs for option 2 and 3.
+The requirement document should have
+
+* Functional requirements
+* Non-functional requirements
+
+Write the report to make it part of your diploma work.
+
+You have two weeks untill January 10 (23:59) to submit the report in PDF format.
+The report should be properly formatted. Send your works to
+<toksaitov_d@auca.kg>.
+

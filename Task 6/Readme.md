@@ -28,7 +28,7 @@ The requirement document should have
 
 Write the report to make it part of your diploma work.
 
-You have two weeks untill January 10 (23:59) to submit the report in PDF format.
+You have two weeks untill February 10 (23:59) to submit the report in PDF format.
 The report should be properly formatted. Send your works to
 <toksaitov_d@auca.kg>.
 

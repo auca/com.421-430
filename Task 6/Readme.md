@@ -4,7 +4,8 @@
 #### Task Requirements
 
 Prepare a requirement document for your diploma work by following the IEEE
-830-1984 standard or any of its variants.
+830-1984 standard or any of its variants. You can use a popular template created
+ by Dr. Kirstie Hawkey [here](https://web.cs.dal.ca/~hawkey/3130/srs_template-ieee.doc).
 
 Ensure to include the basic steps of the requirement engineering process.
 

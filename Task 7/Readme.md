@@ -1,15 +1,14 @@
 # COM 421, Software Engineering
-### Practice Task #6, System Modeling
+### Practice Task #7, System Modeling
 
 #### Task Requirements
 
 Build the following UML diagrams describing the system you are working on for your diploma work.
 
-* Use Case Diagram
-* Activity Diagram
-* Sequence Diagram
-* Class Diagrams
-* State Diagram
+* Use case diagrams
+* At least 1 sequence diagram for the most important process
+* Class diagrams
+* At least 1 activity diagram for the most important process
 
 The goal is to outline the following key...
 
@@ -17,7 +16,10 @@ The goal is to outline the following key...
 * use cases for every role (actor)
 * processes, algorithms
 * structural components
-* states and change of state in response to events
+
+Include the use case diagrams in the SRS document that you are working on for Task #6.
+
+You have two weeks untill February 17 (23:59) to submit the diagrams in PDF format (one document for all diagrams). Send your works to toksaitov_d@auca.kg.
 
 #### Software
 

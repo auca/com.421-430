@@ -9,6 +9,7 @@ Build the following UML diagrams describing the system you are working on for yo
 * At least 1 sequence diagram for the most important process
 * Class diagrams
 * At least 1 activity diagram for the most important process
+* Deployment Diagram
 
 The goal is to outline the following key...
 

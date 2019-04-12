@@ -1,5 +1,5 @@
 # COM 421, Software Engineering
-### Practice Task #5, Building a Project with Application Lifecycle Management software
+### Practice Task #5, Building a Project with Application Lifecycle Management Software
 
 ![Practice 5](http://i.imgur.com/kV03AFB.png)
 

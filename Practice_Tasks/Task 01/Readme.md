@@ -59,4 +59,3 @@ Make sure that you commit history is in order by calling the `git log` command.
 
 7. Check that you can clone `task_01.git` to your local machine. Clone into a
    directory under the name `task_01_clone_test`.
-

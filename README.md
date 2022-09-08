@@ -5,7 +5,7 @@ Sofware Engineering
 
 General course information, time, rules, grading, and books
 
-* <https://github.com/auca/com.421-430/blob/master/Syllabus/COM_421-430_Fall_2022_Syllabus.pdf>
+* <https://github.com/auca/com.421-430/blob/master/Syllabus/COM_421_Fall_2022_Syllabus.pdf>
 
 ## Recordings
 

@@ -38,4 +38,9 @@ Try to maintain a repository for a project of a graphics math library called `vm
 
 ### Submission
 
-* TBD
+1. Create a private `vmath` repo on GitHub for yourself.
+2. Upload the local `vmath` repo from your machine/server to that GitHub repo.
+3. Add the `vmath` GitHub repo as a subtree to your private course
+directory under the name `lab-01`.
+4. Submit a URL pointing to the last commit of your private course
+repo to Canvas.

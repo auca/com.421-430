@@ -15,7 +15,7 @@
 
 6. At the end, merge your `dev` branch into `master`. Ensure that the merge commit is created (you will have to find the options for the merge command on your own). Name the merge commit appropriately, outlining the new feature you were trying to add.
 
-7. Tag the final version of your project as `v2.0` on the `master` branch.
+7. Tag the final version of your project as `v1.1.0` on the `master` branch.
 
 8. Fast-forward the `dev` branch with the `master` branch for future work.
 

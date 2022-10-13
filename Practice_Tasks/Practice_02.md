@@ -21,6 +21,18 @@
 
 9. Push all the branches to your private `vmath` repo. Find out how to do that with one command on your own.
 
+10. Switch to `dev` and create at least two commits with improvements to code style and quality.
+
+11. Switch to `master` and pretend to fix a performance issue in the `norm()` method (minimize the time the division operation is used). Create a merge conflict at this point by editing the same lines of files you were editing on `dev`.
+
+12. Switch to `dev` and create more commits with improvements to code style and quality.
+
+13. At the end, merge your `dev` branch into `master` by resolving the existing merge conflict.
+
+14. Tag the final version of your project as `v1.1.1` on the `master` branch.
+
+15. Fast-forward the `dev` branch with the `master` branch for future work.
+
 ### Managing a Project History with Git
 
 * <https://git-scm.com/book/en/v2>
@@ -41,4 +53,5 @@
 
 ### Submission
 
-TBD
+1. Add the `vmath` GitHub repo as a subtree to your private course directory under the name `lab-02`.
+2. Submit a URL pointing to the last commit of your private course repo to Canvas.

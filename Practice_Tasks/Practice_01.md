@@ -25,17 +25,6 @@ Try to maintain a repository for a project of a graphics math library called `vm
 
 * <https://git-scm.com/book/en/v2>
 
-### Essential Git Commands to Use
-
-* `git init`
-* `git clone`
-* `git add`
-* `git status`
-* `git commit`
-* `git log`
-* `git tag`
-* `git push`
-
 ### Submission
 
 1. Create a private `vmath` repo on GitHub for yourself.

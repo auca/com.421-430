@@ -37,20 +37,6 @@
 
 * <https://git-scm.com/book/en/v2>
 
-### Essential Git Commands to Use
-
-* `git init`
-* `git clone`
-* `git add`
-* `git status`
-* `git commit`
-* `git log`
-* `git tag`
-* `git push`
-* `git branch`
-* `git checkout`
-* `git merge`
-
 ### Submission
 
 1. Add the `vmath` GitHub repo as a subtree to your private course directory under the name `lab-02`.

@@ -1,5 +1,5 @@
 # COM 421, Software Engineering
-## Practice Task #1: Git Basics
+## Practice Task #1: Git and Unit Testing Basics
 
 ### Requirements
 

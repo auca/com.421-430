@@ -15,7 +15,7 @@ Try maintaining a Kanban-like board on GitHub to track tasks and assignments. Th
 
 5. In a different environment (terminal, IDE, Code Editor), clone the existing code `vmath` from GitHub and switch to the `dev` branch. Pretend you are developer #2.
 
-6. Create a topic branch to add `cross()` method to calculate a cross product to `Vec3` with the test to the code base.
+6. Create a topic branch to add `triple()` method to calculate a [triple product](https://en.wikipedia.org/wiki/Triple_product) of three `Vec3` instances. Add the method and its tests.
 
 7. Merge code locally from the topic branch to `dev` and push `dev` to GitHub as developer #2.
 
@@ -37,5 +37,5 @@ Try maintaining a Kanban-like board on GitHub to track tasks and assignments. Th
 
 ### Submission
 
-1. Add the `vmath` GitHub repo as a subtree to your private course directory under the name `lab-03`.
+1. Add the `vmath` GitHub repo as a subtree to your private course directory under the name `lab-3`.
 2. Submit a URL pointing to the last commit of your private course repo to Canvas.

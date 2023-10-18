@@ -11,7 +11,7 @@ Try maintaining a Kanban-like board on GitHub to track tasks and assignments. Th
 
 3. Pretend that you work with another developer in a centralized way. It means you share code with another developer through the central repository (in our case, on GitHub).
 
-4. Create one topic branch to add the `Vec4` class with its tests to the code base. Work on it, making several commits like you were doing for `Vec2` and `Vec3`. Pretend you are developer #1.
+4. Add the `Vec4` class with its tests to the code base. Work on it, making several commits like you were doing for `Vec2` and `Vec3`. Pretend you are developer #1.
 
 5. In a different environment (terminal, IDE, Code Editor), clone the existing code `vmath` from GitHub and switch to the `dev` branch. Pretend you are developer #2.
 
@@ -19,7 +19,7 @@ Try maintaining a Kanban-like board on GitHub to track tasks and assignments. Th
 
 7. Merge code locally from the topic branch to `dev` and push `dev` to GitHub as developer #2.
 
-8. Pull code to `dev` from GitHub with developer #1 changes, merge the topic branch to `dev` locally and push `dev` to GitHub as developer #1.
+8. Pull code to `dev` from GitHub with developer #1 changes, merge it if necessary, and push `dev` to GitHub.
 
 9. Pull code to the `dev` branch as developer #2. Ensure that both devs have `dev` in sync.
 

@@ -1,32 +1,32 @@
 # COM 421, Software Engineering
-## Practice Task #4, Distributed Git Workflows (Integration-Manager)
+## Practice Task #4, Distributed Git Workflows (Integration-Manager Workflow)
 
 ### Requirements
 
-1. Take a break from your own `vmath` repo on GitHub and go to the public `vmath` repo <https://github.com/rachmiroff/vmath>.
+1. Take a break from your own `vmath` repo on GitHub and navigate to the public `vmath` repo at <https://github.com/toksaitov/vmath>.
 
-2. In that repo, go to the Projects page and find a suitable task for you to do.
+2. On that repo, visit the Projects page and select a task that you can contribute to from the backlog.
 
-3. Assign the task for yourself, move it into the 'In Progress' column of the Kanban-like board. If you don't have access to it, write to the instructor a email message with your GitHub login.
+3. Assign the task to yourself and move it into the 'In Progress' column of the Kanban-like board when it becomes available in the 'Ready' column. If you don't have access, send an email to the instructor with your GitHub username.
 
-4. Fork the `rachmiroff`'s repo, then clone your forked repo to your computer.
+4. Fork `toksaitov`'s repo, then clone your forked repository to your local machine.
 
-5. Go to the `dev` branch, create an issue branch from it, switch to that issue branch.
+5. Switch to the `dev` branch, create a new issue/feature branch from it, and then switch to your newly created issue/feature branch.
 
-6. Do the work on the task, making several commits.
+6. Work on the task, making several commits as you progress.
 
-7. Merge the work from the issue branch to `dev`.
+7. Merge the changes from your issue/feature branch into `dev`.
 
-8. Push the `dev` branch to your forked repo on GitHub.
+8. Push the `dev` branch to your forked repository on GitHub.
 
-9. Go to GitHub and create a Pull Request (PR) from `dev` of your forked repo to the `rachmiroff`'s dev of `vmath`.
+9. Navigate to GitHub and create a Pull Request from the `dev` branch of your forked repository to `toksaitov`'s `dev` branch of `vmath`.
 
-10. Ensure the PR is accepted by pushing fixes requested by the reviewers.
+10. Ensure the PR is accepted by addressing any feedback provided by the reviewers. Regularly follow the board, announcements, and discussions regarding your PR to adapt your work as needed. Be respectful to the Integration Managers and avoid inundating them with work on the very last day before the deadline. They will not be held responsible if they are unable to review and accept your work in time.
 
-### Managing a Project History with Git
+### Managing Project History with Git
 
 * <https://git-scm.com/book/en/v2>
 
 ### Submission
 
-Make a PR that is accepted and merged by the instructor.
+Submit a PR that is accepted by the Integration Managers and merged by the instructor before the specified deadline on Canvas.

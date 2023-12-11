@@ -1,4 +1,4 @@
-Sofware Engineering
+Software Engineering
 ===================
 
 ## Syllabus
